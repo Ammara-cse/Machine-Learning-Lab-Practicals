@@ -100,7 +100,7 @@ The repository includes the following datasets used during the practicals:
 
 ## 📁 Repository Structure
 
-
+```text
 
 Machine-Learning-Lab-Practicals/
 │
@@ -123,7 +123,7 @@ Machine-Learning-Lab-Practicals/
 ├── .gitignore
 └── README.md
 
----
+```
 ---
 
 🛠️ Technologies & Libraries
