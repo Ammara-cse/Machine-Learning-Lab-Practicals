@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 🤖 Machine Learning Laboratory Practicals
@@ -75,26 +76,45 @@ Machine-Learning-Lab-Practicals/
 ├── diabetes_clustered_output.csv
 ├── .gitignore
 └── README.md
----
-##🛠️ Tech Stack & Libraries
-Programming Language: Python 3
 
-IDE / Environment: Jupyter Notebook, Anaconda Distribution
+```
 
-Core Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 ---
-##🚀 How to Run Locally
-Clone the repository:
+
+## 🛠️ Tech Stack & Libraries
+
+* **Programming Language:** Python 3
+* **IDE / Environment:** Jupyter Notebook, Anaconda Distribution
+* **Core Libraries:** `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-Learn`
+
 ---
-##Bash
-git clone [https://github.com/Ammara-cse/Machine-Learning-Lab-Practicals.git](https://github.com/YOUR_USERNAME/Machine-Learning-Lab-Practicals.git)
+
+## 🚀 How to Run Locally
+
+1. **Clone the repository:**
+```bash
+git clone [https://github.com/Ammara-cse/Machine-Learning-Lab-Practicals.git](https://github.com/Ammara-cse/Machine-Learning-Lab-Practicals.git)
 cd Machine-Learning-Lab-Practicals
-Install required dependencies:
----
-##Bash
+
+```
+
+
+2. **Install required dependencies:**
+```bash
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter
-Launch Jupyter Notebook:
----
-##Bash
+
+```
+
+
+3. **Launch Jupyter Notebook:**
+```bash
 jupyter notebook
----
+
+```
+
+
+
+
+
+
+Kya aap chahte hain ki main aapki empty `10_perceptron.ipynb` file ke liye ek clean, exam-ready Single-Layer Perceptron code likh doon taaki aapki 10th lab bhi complete hokar upload ho jaye?
