@@ -121,7 +121,7 @@ Machine-Learning-Lab-Practicals/
 
 ---
 
-### 🛠️ Technologies & Libraries
+## 🛠️ Technologies & Libraries
 
 💻 Programming & Environment
 
