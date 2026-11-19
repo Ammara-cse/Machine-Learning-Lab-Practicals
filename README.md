@@ -1,6 +1,4 @@
-Haan — yahan important point ye hai ki README ko over-designed nahi karna. GitHub par professional README ka look clean + technical + personal hona chahiye. Tumhare existing filenames, experiments, datasets aur commands ko change nahi kar raha hoon; sirf presentation aur wording ko more natural/human bana raha hoon.
 
-Directly apne README.md mein paste karo:
 
 <div align="center">
 
