@@ -31,3 +31,16 @@ This repository contains hands-on Machine Learning laboratory practicals impleme
 1. Clone this repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/Machine-Learning-Lab-Practicals.git](https://github.com/YOUR_USERNAME/Machine-Learning-Lab-Practicals.git)
+   ```
+## 👤 Author & Academic Details
+
+* **Name:** Ammara Sirkhot
+* **PRN:** 24030332905059
+* **Department:** Department of Computer Science and Engineering
+* **University:** Dr. Babasaheb Ambedkar Technological University (DBATU), Lonere
+* **Academic Year:** 2025–2026
+
+```
+
+```
+
