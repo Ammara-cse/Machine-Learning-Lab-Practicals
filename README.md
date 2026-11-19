@@ -1,7 +1,3 @@
-Tumhare current README mein main problem Practical Progression nahi hai—Repository Structure aur How to Run mein code fences missing hain. Isliye GitHub unko normal text ki tarah render karega. Aur progression ko plain ASCII rakhoge to GitHub font/spacing ke hisaab se alignment change ho sakta hai.
-
-Neeche tumhara same content, same practicals/datasets/commands ke saath, properly formatted final version hai. Sirf presentation aur Markdown structure clean kiya hai.
-
 <div align="center">
 
 # 🤖 Machine Learning Laboratory Practicals
@@ -103,6 +99,7 @@ The repository includes the following datasets used during the practicals:
 ---
 
 ## 📁 Repository Structure
+
 
 
 Machine-Learning-Lab-Practicals/
