@@ -96,7 +96,7 @@ The repository includes the following datasets used during the practicals:
 
 ## 📁 Repository Structure
 
-```text
+
 Machine-Learning-Lab-Practicals/
 │
 ├── 01_Anaconda & Python Environment Setup.pdf
@@ -119,7 +119,6 @@ Machine-Learning-Lab-Practicals/
 └── README.md
 
 
----
 
 ## 🛠️ Technologies & Libraries
 
