@@ -75,3 +75,25 @@ Machine-Learning-Lab-Practicals/
 ├── diabetes_clustered_output.csv
 ├── .gitignore
 └── README.md
+
+🛠️ Tech Stack & Libraries
+Programming Language: Python 3
+
+IDE / Environment: Jupyter Notebook, Anaconda Distribution
+
+Core Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
+
+🚀 How to Run Locally
+Clone the repository:
+
+Bash
+git clone [https://github.com/Ammara-cse/Machine-Learning-Lab-Practicals.git](https://github.com/YOUR_USERNAME/Machine-Learning-Lab-Practicals.git)
+cd Machine-Learning-Lab-Practicals
+Install required dependencies:
+
+Bash
+pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+Launch Jupyter Notebook:
+
+Bash
+jupyter notebook
