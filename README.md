@@ -121,7 +121,7 @@ Machine-Learning-Lab-Practicals/
 
 ---
 
-🛠️ Technologies & Libraries
+### 🛠️ Technologies & Libraries
 
 💻 Programming & Environment
 
@@ -129,7 +129,7 @@ Machine-Learning-Lab-Practicals/
 - Jupyter Notebook
 - Anaconda Distribution
 
-📚 Libraries
+### 📚 Libraries
 
 - NumPy — Numerical computing
 - Pandas — Data manipulation and analysis
@@ -140,7 +140,7 @@ Machine-Learning-Lab-Practicals/
 
 ---
 
-🚀 How to Run Locally
+### 🚀 How to Run Locally
 
 1. Clone the Repository
 
@@ -160,7 +160,7 @@ After launching Jupyter Notebook, open the required .ipynb file and run the cell
 
 ---
 
-📚 Learning Outcomes
+### 📚 Learning Outcomes
 
 Through these practicals, I worked with different Machine Learning approaches and gained practical experience in:
 
@@ -177,7 +177,7 @@ Through these practicals, I worked with different Machine Learning approaches an
 
 ---
 
-🎯 Practical Progression
+### 🎯 Practical Progression
 
 Python & Environment Setup
             │
@@ -207,7 +207,7 @@ Python & Environment Setup
 
 ---
 
-📌 Note
+### 📌 Note
 
 This repository is maintained as part of my academic Machine Learning coursework and contains implementations completed during the laboratory practicals.
 
