@@ -1,4 +1,6 @@
+Tumhare current README mein main problem Practical Progression nahi hai—Repository Structure aur How to Run mein code fences missing hain. Isliye GitHub unko normal text ki tarah render karega. Aur progression ko plain ASCII rakhoge to GitHub font/spacing ke hisaab se alignment change ho sakta hai.
 
+Neeche tumhara same content, same practicals/datasets/commands ke saath, properly formatted final version hai. Sirf presentation aur Markdown structure clean kiya hai.
 
 <div align="center">
 
@@ -57,27 +59,33 @@ The aim of this repository is not only to implement the algorithms, but also to 
 ## 🧠 What These Practicals Cover
 
 ### 📊 Data Analysis
+
 - Graphs and charts
 - Exploratory visualization
 - Understanding patterns in datasets
 
 ### 📈 Regression
+
 - Simple Linear Regression
 - Multiple Linear Regression
 
 ### 🎯 Classification
+
 - Decision Tree
 - K-Nearest Neighbors
 - Naive Bayes
 - Support Vector Machine
 
 ### 🌲 Ensemble Learning
+
 - Random Forest Classification
 
 ### 🔵 Unsupervised Learning
+
 - K-Means Clustering
 
 ### 🧠 Neural Networks
+
 - Single-Layer Perceptron
 
 ---
@@ -96,7 +104,7 @@ The repository includes the following datasets used during the practicals:
 
 ## 📁 Repository Structure
 
-
+```text
 Machine-Learning-Lab-Practicals/
 │
 ├── 01_Anaconda & Python Environment Setup.pdf
@@ -118,9 +126,10 @@ Machine-Learning-Lab-Practicals/
 ├── .gitignore
 └── README.md
 
+---
+---
 
-
-## 🛠️ Technologies & Libraries
+🛠️ Technologies & Libraries
 
 💻 Programming & Environment
 
@@ -128,7 +137,7 @@ Machine-Learning-Lab-Practicals/
 - Jupyter Notebook
 - Anaconda Distribution
 
-### 📚 Libraries
+📚 Libraries
 
 - NumPy — Numerical computing
 - Pandas — Data manipulation and analysis
@@ -139,7 +148,7 @@ Machine-Learning-Lab-Practicals/
 
 ---
 
-### 🚀 How to Run Locally
+🚀 How to Run Locally
 
 1. Clone the Repository
 
@@ -159,7 +168,7 @@ After launching Jupyter Notebook, open the required .ipynb file and run the cell
 
 ---
 
-### 📚 Learning Outcomes
+📚 Learning Outcomes
 
 Through these practicals, I worked with different Machine Learning approaches and gained practical experience in:
 
@@ -176,7 +185,7 @@ Through these practicals, I worked with different Machine Learning approaches an
 
 ---
 
-### 🎯 Practical Progression
+🎯 Practical Progression
 
 Python & Environment Setup
             │
@@ -188,17 +197,16 @@ Python & Environment Setup
             │
             ▼
       Classification
-            │
-            ├── Decision Tree
-            ├── KNN
-            ├── Naive Bayes
-            └── SVM
+       ├── Decision Tree
+       ├── KNN
+       ├── Naive Bayes
+       └── SVM
             │
             ▼
      Ensemble Learning
             │
             ▼
-      K-Means Clustering
+     K-Means Clustering
             │
             ▼
    Single-Layer Perceptron
@@ -206,7 +214,7 @@ Python & Environment Setup
 
 ---
 
-### 📌 Note
+📌 Note
 
 This repository is maintained as part of my academic Machine Learning coursework and contains implementations completed during the laboratory practicals.
 
@@ -222,5 +230,3 @@ Computer Science & Engineering
 DBATU • 2026–2027
 
 </div>
-
-
