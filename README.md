@@ -116,5 +116,3 @@ jupyter notebook
 
 
 
-
-Kya aap chahte hain ki main aapki empty `10_perceptron.ipynb` file ke liye ek clean, exam-ready Single-Layer Perceptron code likh doon taaki aapki 10th lab bhi complete hokar upload ho jaye?
