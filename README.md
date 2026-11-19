@@ -209,6 +209,7 @@ Python & Environment Setup
             ▼
    Single-Layer Perceptron
 
+```
 
 ---
 
