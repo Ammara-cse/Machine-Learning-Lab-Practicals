@@ -183,6 +183,7 @@ Through these practicals, I worked with different Machine Learning approaches an
 ---
 
 🎯 Practical Progression
+```text
 
 Python & Environment Setup
             │
